@@ -139,8 +139,6 @@ Commercial-Freight-Operations-Transit-Performance-Analytics-Dashboard
 
 ##  Dashboard Preview
 
-### Executive Dashboard
-
 <img width="1078" height="603" alt="image" src="https://github.com/user-attachments/assets/f3866248-a1b9-4357-912c-400b7c8505f2" />
 
 ---
