@@ -43,7 +43,7 @@ The data was then transformed into an interactive Power BI dashboard to monitor 
 
 ##  Dashboard Highlights
 
-### Executive Overview
+#### Executive Overview
 
 - Total Shipments
 - On-Time Delivery Rate
@@ -51,20 +51,20 @@ The data was then transformed into an interactive Power BI dashboard to monitor 
 - Delay Analysis
 - Operational Performance KPIs
 
-### Route Performance Analysis
+#### Route Performance Analysis
 
 - Route Efficiency Comparison
 - Delay Hotspot Identification
 - Transit Time Analysis
 - Performance Monitoring
 
-### Shipment Analytics
+#### Shipment Analytics
 
 - Shipment Status Monitoring
 - Delivery Trends
 - Freight Volume Analysis
 
-### Fleet Operations
+#### Fleet Operations
 
 - Vehicle Utilization Analysis
 - Operational Efficiency Metrics
@@ -99,25 +99,25 @@ The schema was structured specifically to support analytical reporting and busin
 
 ##  Skills Demonstrated
 
-### Data Analytics
+#### Data Analytics
 - KPI Development
 - Trend Analysis
 - Performance Monitoring
 - Operational Analytics
 
-### SQL
+#### SQL
 - Database Design
 - Data Modeling
 - Data Transformation
 - Analytical Queries
 
-### Power BI
+#### Power BI
 - Interactive Dashboards
 - Data Visualization
 - DAX Measures
 - Business Intelligence Reporting
 
-### Business Intelligence
+#### Business Intelligence
 - Supply Chain Analytics
 - Logistics Analytics
 - Executive Reporting
@@ -182,7 +182,7 @@ Final Year Undergraduate
 BSc (Hons) Applied Data Science  
 General Sir John Kotelawala Defence University
 
-### Connect With Me
+## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/dilakna-godagamage
 - Medium: https://medium.com/@dilaknagodagamage
