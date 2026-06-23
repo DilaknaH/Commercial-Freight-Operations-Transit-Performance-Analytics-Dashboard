@@ -175,7 +175,7 @@ The article covers:
 **Dilakna Godagamage**
 
 Final Year Undergraduate  
-BSc (Hons) Applied Data Science  
+BSc Applied Data Science  
 General Sir John Kotelawala Defence University
 
 ## Connect With Me
