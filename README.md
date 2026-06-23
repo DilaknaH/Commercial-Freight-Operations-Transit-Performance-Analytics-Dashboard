@@ -137,9 +137,7 @@ Commercial-Freight-Operations-Transit-Performance-Analytics-Dashboard
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add your dashboard screenshots here.
+##  Dashboard Preview
 
 ### Executive Dashboard
 
